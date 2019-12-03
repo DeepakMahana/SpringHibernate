@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 24-spring-data-rest-cruddemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: deepak
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_222
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cruddemo
+Created-By: Maven Integration for Eclipse
+
